@@ -1,0 +1,10 @@
+D:\My Documents\My Dropbox\Projects\uping\pinger\obj\Release\ResolveAssemblyReference.cache
+D:\My Documents\My Dropbox\Projects\uping\pinger\obj\Release\ResGen.read.1.tlog
+D:\My Documents\My Dropbox\Projects\uping\pinger\obj\Release\ResGen.write.1.tlog
+D:\My Documents\My Dropbox\Projects\uping\pinger\obj\Release\uping.AboutBoxuping.resources
+D:\My Documents\My Dropbox\Projects\uping\pinger\obj\Release\uping.uping.resources
+D:\My Documents\My Dropbox\Projects\uping\pinger\obj\Release\uping.Properties.Resources.resources
+D:\My Documents\My Dropbox\Projects\uping\pinger\bin\Release\uping.exe
+D:\My Documents\My Dropbox\Projects\uping\pinger\bin\Release\uping.pdb
+D:\My Documents\My Dropbox\Projects\uping\pinger\obj\Release\uping.exe
+D:\My Documents\My Dropbox\Projects\uping\pinger\obj\Release\uping.pdb

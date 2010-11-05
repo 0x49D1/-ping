@@ -1,0 +1,8 @@
+D:\My Documents\My Dropbox\pinger\pinger\bin\Debug\pinger.exe
+D:\My Documents\My Dropbox\pinger\pinger\bin\Debug\pinger.pdb
+D:\My Documents\My Dropbox\pinger\pinger\obj\Debug\ResolveAssemblyReference.cache
+D:\My Documents\My Dropbox\pinger\pinger\obj\Debug\pinger.Properties.Resources.resources
+D:\My Documents\My Dropbox\pinger\pinger\obj\Debug\Pinger.csproj.GenerateResource.Cache
+D:\My Documents\My Dropbox\pinger\pinger\obj\Debug\pinger.exe
+D:\My Documents\My Dropbox\pinger\pinger\obj\Debug\pinger.pdb
+D:\My Documents\My Dropbox\pinger\pinger\obj\Debug\Pinger.Pinger.resources

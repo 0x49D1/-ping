@@ -1,0 +1,11 @@
+D:\My Documents\My Dropbox\pinger\pinger\obj\Release\ResolveAssemblyReference.cache
+D:\My Documents\My Dropbox\pinger\pinger\obj\Release\Pinger.Pingit.resources
+D:\My Documents\My Dropbox\pinger\pinger\obj\Release\Pingit.csproj.GenerateResource.Cache
+D:\My Documents\My Dropbox\pinger\pinger\bin\Release\Pingit.exe
+D:\My Documents\My Dropbox\pinger\pinger\bin\Release\Pingit.pdb
+D:\My Documents\My Dropbox\pinger\pinger\obj\Release\Pingit.Properties.Resources.resources
+D:\My Documents\My Dropbox\pinger\pinger\obj\Release\Pingit.exe
+D:\My Documents\My Dropbox\pinger\pinger\obj\Release\Pingit.pdb
+D:\My Documents\My Dropbox\pinger\pinger\obj\Release\Pingit.AboutBoxPingit.resources
+D:\My Documents\My Dropbox\Projects\uping\pinger\obj\Release\Pingit.exe
+D:\My Documents\My Dropbox\Projects\uping\pinger\obj\Release\Pingit.pdb

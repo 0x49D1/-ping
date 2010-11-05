@@ -1,0 +1,12 @@
+D:\My Documents\My Dropbox\Projects\uping\pinger\bin\Debug\uping.exe
+D:\My Documents\My Dropbox\Projects\uping\pinger\bin\Debug\uping.pdb
+D:\My Documents\My Dropbox\Projects\uping\pinger\obj\Debug\ResolveAssemblyReference.cache
+D:\My Documents\My Dropbox\Projects\uping\pinger\obj\Debug\uping.AboutBoxuping.resources
+D:\My Documents\My Dropbox\Projects\uping\pinger\obj\Debug\uping.uping.resources
+D:\My Documents\My Dropbox\Projects\uping\pinger\obj\Debug\uping.Properties.Resources.resources
+D:\My Documents\My Dropbox\Projects\uping\pinger\obj\Debug\ResGen.read.1.tlog
+D:\My Documents\My Dropbox\Projects\uping\pinger\obj\Debug\ResGen.write.1.tlog
+D:\My Documents\My Dropbox\Projects\uping\pinger\obj\Debug\uping.exe
+D:\My Documents\My Dropbox\Projects\uping\pinger\obj\Debug\uping.pdb
+D:\My Documents\My Dropbox\Projects\uping\pinger\obj\Debug\uping.Forms.ServerList.resources
+D:\My Documents\My Dropbox\Projects\uping\pinger\obj\Debug\uping.Forms.TemplateFormList.resources

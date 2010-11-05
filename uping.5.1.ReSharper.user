@@ -1,0 +1,190 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="MessageBox`0" priority="1" />
+      <Item value="ex" priority="1" />
+      <Item value="p" priority="5" />
+      <Item value="waiter" priority="0" />
+      <Item value="try" priority="0" />
+      <Item value="catch" priority="0" />
+      <Item value="Exception`0" priority="0" />
+      <Item value="timer1" priority="1" />
+      <Item value="if" priority="5" />
+      <Item value="e" priority="0" />
+      <Item value="else" priority="1" />
+      <Item value="dgvResults" priority="5" />
+      <Item value="public" priority="0" />
+      <Item value="static" priority="0" />
+      <Item value="DataGridViewCell`0" priority="0" />
+      <Item value="SaveFileDialog`0" priority="0" />
+      <Item value="new" priority="2" />
+      <Item value="SaveFileDialog" priority="0" />
+      <Item value="sfd" priority="4" />
+      <Item value="tw" priority="0" />
+      <Item value="dgv" priority="2" />
+      <Item value="DateTime`0" priority="0" />
+      <Item value="ClearGridView`0" priority="0" />
+      <Item value="return" priority="1" />
+      <Item value="keyData" priority="0" />
+      <Item value="Keys`0" priority="2" />
+      <Item value="CancelPing`0" priority="0" />
+      <Item value="SaveResults`0" priority="0" />
+      <Item value="true" priority="2" />
+      <Item value="reply" priority="1" />
+      <Item value="dr" priority="0" />
+      <Item value="null" priority="0" />
+      <Item value="TemplateList`0" priority="0" />
+      <Item value="this" priority="2" />
+      <Item value="ServerList" priority="0" />
+      <Item value="sl" priority="0" />
+      <Item value="false" priority="0" />
+      <Item value="toolStrip1" priority="0" />
+      <Item value="ToolStripMenuItem`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.MessageBox">
+      <Item value="Show`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Net.NetworkInformation.Ping">
+      <Item value="SendAsyncCancel`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Exception">
+      <Item value="Message" priority="2" />
+      <Item value="InnerException" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Timer">
+      <Item value="Stop`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Net.NetworkInformation.PingCompletedEventArgs">
+      <Item value="Error" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.SaveFileDialog">
+      <Item value="Filter" priority="0" />
+      <Item value="ShowDialog`0" priority="0" />
+      <Item value="FileName" priority="2" />
+      <Item value="CheckFileExists" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@uping.Lib.Utilities">
+      <Item value="ExportToCSV`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="Length" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.DataGridView">
+      <Item value="SelectedRows" priority="0" />
+      <Item value="RowCount" priority="0" />
+      <Item value="Rows" priority="2" />
+      <Item value="DataSource" priority="0" />
+      <Item value="AutoGenerateColumns" priority="0" />
+      <Item value="Refresh`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.DataGridViewRow">
+      <Item value="Cells" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.DataGridViewCellCollection">
+      <Item value="Count" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.DataGridViewCell">
+      <Item value="Value" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.DateTime">
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.DateTime">
+      <Item value="Parse`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Object">
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.DataGridViewRowCollection">
+      <Item value="Clear`0" priority="0" />
+      <Item value="Count" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.DataRowCollection">
+      <Item value="Count" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.DataTable">
+      <Item value="Rows" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.Keys">
+      <Item value="E" priority="0" />
+      <Item value="ControlKey" priority="0" />
+      <Item value="S" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Net.NetworkInformation.PingReply">
+      <Item value="Status" priority="0" />
+      <Item value="Options" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:uping.Forms.ServerList">
+      <Item value="dgv" priority="0" />
+      <Item value="ShowDialog`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Data.Sql.SqlDataSourceEnumerator">
+      <Item value="Instance" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:uping.uping">
+      <Item value="TopMost" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.Sql.SqlDataSourceEnumerator">
+      <Item value="GetDataSources`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="CC06ACB8-358D-48C5-8FB4-3C063EF206AB/f:Program.cs" caret="109" fromTop="6" />
+      <File id="CC06ACB8-358D-48C5-8FB4-3C063EF206AB/d:Properties/f:AssemblyInfo.cs" caret="329" fromTop="6" />
+      <File id="CC06ACB8-358D-48C5-8FB4-3C063EF206AB/d:Lib/f:Utilities.cs" caret="1339" fromTop="32" />
+      <File id="CC06ACB8-358D-48C5-8FB4-3C063EF206AB/d:Forms/f:TemplateFormList.cs" caret="0" fromTop="0" />
+      <File id="CC06ACB8-358D-48C5-8FB4-3C063EF206AB/d:Forms/f:ServerList.cs" caret="283" fromTop="12" />
+      <File id="CC06ACB8-358D-48C5-8FB4-3C063EF206AB/f:uping.cs" caret="2263" fromTop="27" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="CC06ACB8-358D-48C5-8FB4-3C063EF206AB/d:Lib/f:Utilities.cs" caret="1699" fromTop="37" />
+      <File id="CC06ACB8-358D-48C5-8FB4-3C063EF206AB/d:Lib/f:Utilities.cs" caret="1901" fromTop="32" />
+      <File id="CC06ACB8-358D-48C5-8FB4-3C063EF206AB/d:Lib/f:Utilities.cs" caret="1679" fromTop="35" />
+      <File id="CC06ACB8-358D-48C5-8FB4-3C063EF206AB/f:uping.cs" caret="6666" fromTop="32" />
+      <File id="CC06ACB8-358D-48C5-8FB4-3C063EF206AB/f:uping.cs" caret="6672" fromTop="0" />
+      <File id="CC06ACB8-358D-48C5-8FB4-3C063EF206AB/f:uping.cs" caret="4703" fromTop="11" />
+      <File id="CC06ACB8-358D-48C5-8FB4-3C063EF206AB/f:uping.cs" caret="5256" fromTop="5" />
+      <File id="CC06ACB8-358D-48C5-8FB4-3C063EF206AB/f:uping.cs" caret="5921" fromTop="32" />
+      <File id="CC06ACB8-358D-48C5-8FB4-3C063EF206AB/d:Lib/f:Utilities.cs" caret="215" fromTop="8" />
+      <File id="CC06ACB8-358D-48C5-8FB4-3C063EF206AB/f:uping.cs" caret="3367" fromTop="26" />
+      <File id="CC06ACB8-358D-48C5-8FB4-3C063EF206AB/f:uping.cs" caret="5513" fromTop="19" />
+      <File id="CC06ACB8-358D-48C5-8FB4-3C063EF206AB/f:uping.cs" caret="6329" fromTop="33" />
+      <File id="CC06ACB8-358D-48C5-8FB4-3C063EF206AB/f:uping.cs" caret="3280" fromTop="16" />
+      <File id="CC06ACB8-358D-48C5-8FB4-3C063EF206AB/f:uping.cs" caret="3280" fromTop="37" />
+      <File id="CC06ACB8-358D-48C5-8FB4-3C063EF206AB/f:uping.cs" caret="686" fromTop="9" />
+      <File id="CC06ACB8-358D-48C5-8FB4-3C063EF206AB/f:uping.cs" caret="3041" fromTop="36" />
+      <File id="CC06ACB8-358D-48C5-8FB4-3C063EF206AB/f:uping.cs" caret="2729" fromTop="25" />
+      <File id="CC06ACB8-358D-48C5-8FB4-3C063EF206AB/d:Lib/f:Utilities.cs" caret="1339" fromTop="32" />
+      <File id="CC06ACB8-358D-48C5-8FB4-3C063EF206AB/d:Lib/f:Utilities.cs" caret="1954" fromTop="32" />
+      <File id="CC06ACB8-358D-48C5-8FB4-3C063EF206AB/f:uping.cs" caret="3082" fromTop="25" />
+      <File id="CC06ACB8-358D-48C5-8FB4-3C063EF206AB/d:Forms/f:ServerList.cs" caret="129" fromTop="11" />
+      <File id="CC06ACB8-358D-48C5-8FB4-3C063EF206AB/d:Forms/f:TemplateFormList.cs" caret="0" fromTop="0" />
+      <File id="CC06ACB8-358D-48C5-8FB4-3C063EF206AB/d:Forms/f:ServerList.cs" caret="37" fromTop="1" />
+      <File id="CC06ACB8-358D-48C5-8FB4-3C063EF206AB/f:uping.cs" caret="6672" fromTop="20" />
+      <File id="CC06ACB8-358D-48C5-8FB4-3C063EF206AB/f:uping.cs" caret="6672" fromTop="18" />
+      <File id="CC06ACB8-358D-48C5-8FB4-3C063EF206AB/d:Forms/f:ServerList.cs" caret="283" fromTop="12" />
+      <File id="CC06ACB8-358D-48C5-8FB4-3C063EF206AB/d:Forms/f:ServerList.cs" caret="475" fromTop="12" />
+      <File id="CC06ACB8-358D-48C5-8FB4-3C063EF206AB/f:uping.cs" caret="6515" fromTop="25" />
+      <File id="CC06ACB8-358D-48C5-8FB4-3C063EF206AB/f:uping.cs" caret="6425" fromTop="18" />
+      <File id="CC06ACB8-358D-48C5-8FB4-3C063EF206AB/f:uping.cs" caret="2263" fromTop="27" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir>C:\Program Files (x86)\NUnit\bin\net-2.0\</NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>
